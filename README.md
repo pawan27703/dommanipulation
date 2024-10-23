@@ -1,4 +1,4 @@
-https://github.com/pawan27703/dommanipulation
+
 # DOM Manipulation Example
 
 This project demonstrates basic DOM manipulation using JavaScript. It showcases how to modify the styles of a `<div>` element to create a visually appealing user interface.
@@ -18,5 +18,5 @@ This project demonstrates basic DOM manipulation using JavaScript. It showcases 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/pawan27703/dommanipulation
+   git clone  https://pawan27703.github.io/dommanipulation/
    cd dommanipulation
